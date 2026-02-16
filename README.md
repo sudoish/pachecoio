@@ -18,17 +18,8 @@ Skateboarding keeps me grounded. Fatherhood keeps me humble.
 
 ## 📝 Recent Writing
 
-- **[Nobody Knows How to Estimate Software Anymore (And It's Not Your Fault)](https://sudoish.com/nobody-knows-how-to-estimate-software-anymore/)** — Software estimation is broken in the AI era. Developers swing between wildly optimistic and pessimistic estimates as AI tools shatter old calibration models.
-
-- **[The Review Bottleneck: Why AI Explanations Are Making Us Trust Less, Not More](https://sudoish.com/the-review-bottleneck-why-ai-explanations-are-making-us-trust-less-not-more/)** — I spent 3 hours reviewing code that took 20 minutes to write. The AI was faster. The review wasn't.
-
-- **[Working Twice as Hard to Be Seen as Average: Life as a Latino Developer](https://sudoish.com/working-twice-as-hard-to-be-seen-as-average-life-as-a-latino-developer/)** — Before I could connect to the projector, someone asked me to refill the coffee first.
-
-- **[Are We Still Developers? The Hidden Cost of Vibe Coding](https://sudoish.com/are-we-still-developers-the-hidden-cost-of-vibe-coding/)** — AI-generated 847 lines in 12 minutes felt like god mode. But the review took longer than writing it would have.
-
-- **[What I'm Doing to Not Become Irrelevant](https://sudoish.com/what-im-doing-to-not-become-irrelevant/)** — How I'm staying relevant as a developer in the AI era. Practical habits for the modern developer.
-
-- **[The Developer Identity Crisis](https://sudoish.com/the-developer-identity-crisis/)** — AI agents are shipping code while developers sleep. How much can we trust AI before our caution becomes a liability?
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [📚 Read more on sudoish.com](https://sudoish.com)
 

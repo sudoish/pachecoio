@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://sudoish.com">🌐 sudoish.com</a> •
   <a href="https://pacheco.io">📧 pacheco.io</a> •
-  <a href="https://twitter.com/thisk8brd">🐦 Twitter</a> •
+  <a href="https://x.com/sudo_ish">𝕏 X</a> •
   <a href="https://linkedin.com/in/pachecothiago">💼 LinkedIn</a>
 </p>
 
@@ -41,7 +41,7 @@ Skateboarding keeps me grounded. Fatherhood keeps me humble.
 ## 💬 Let's Connect
 
 - 📧 Email: hi@pacheco.io
-- 🐦 Twitter: [@thisk8brd](https://twitter.com/thisk8brd)
+- 𝕏 X: [@sudo_ish](https://x.com/sudo_ish)
 - 💼 LinkedIn: [pachecothiago](https://linkedin.com/in/pachecothiago)
 - 📝 Blog: [sudoish.com](https://sudoish.com)
 

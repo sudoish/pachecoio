@@ -19,11 +19,11 @@ Skateboarding keeps me grounded. Fatherhood keeps me humble.
 ## 📝 Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [The Descent Into Chaos: A Story You’ve Lived Before](https://sudoish.com/the-descent-into-chaos-a-story-youve-lived-before/)
 - [Nobody Knows How to Estimate Software Anymore &lpar;And It’s Not Your Fault&rpar;](https://sudoish.com/nobody-knows-how-to-estimate-software-anymore/)
 - [The Review Bottleneck: Why AI Explanations Are Making Us Trust Less, Not More](https://sudoish.com/the-review-bottleneck-why-ai-explanations-are-making-us-trust-less-not-more/)
 - [Working Twice as Hard to Be Seen as Average: Life as a Latino Developer](https://sudoish.com/working-twice-as-hard-to-be-seen-as-average-life-as-a-latino-developer/)
 - [Are We Still Developers? The Hidden Cost of Vibe Coding](https://sudoish.com/are-we-still-developers-the-hidden-cost-of-vibe-coding/)
-- [What I’m Doing to Not Become Irrelevant](https://sudoish.com/what-im-doing-to-not-become-irrelevant/)
 <!-- BLOG-POST-LIST:END -->
 
 [📚 Read more on sudoish.com](https://sudoish.com)

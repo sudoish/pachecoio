@@ -19,7 +19,7 @@ Skateboarding keeps me grounded. Fatherhood keeps me humble.
 ## 📝 Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [The Junior Developer Pipeline Is Broken &lpar;And We Did It to Ourselves&rpar;](https://sudoish.com/junior-developer-pipeline-broken/)
+- [How We Made It Nearly Impossible to Become a Developer](https://sudoish.com/junior-developer-pipeline-broken/)
 - [The AI Productivity Lie Nobody Wants to Admit](https://sudoish.com/the-ai-productivity-lie-nobody-wants-to-admit-2/)
 - [Your Code Works. Your Architecture Doesn’t.](https://sudoish.com/your-code-works-your-architecture-doesnt/)
 - [AI Code Reviews Are Backwards &lpar;Do This Instead&rpar;](https://sudoish.com/ai-code-reviews-are-backwards-do-this-instead/)

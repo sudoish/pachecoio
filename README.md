@@ -19,11 +19,11 @@ Skateboarding keeps me grounded. Fatherhood keeps me humble.
 ## 📝 Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [You Think, AI Executes: The Skills That Actually Matter](https://sudoish.com/ai-driven-development-xc-dotenv/)
 - [I’ve been producing bad code &lpar;because of AI&rpar;](https://sudoish.com/ive-been-producing-bad-code-because-of-ai/)
 - [How We Made It Nearly Impossible to Become a Developer](https://sudoish.com/junior-developer-pipeline-broken/)
 - [The AI Productivity Lie Nobody Wants to Admit](https://sudoish.com/the-ai-productivity-lie-nobody-wants-to-admit-2/)
 - [Your Code Works. Your Architecture Doesn’t.](https://sudoish.com/your-code-works-your-architecture-doesnt/)
-- [AI Code Reviews Are Backwards &lpar;Do This Instead&rpar;](https://sudoish.com/ai-code-reviews-are-backwards-do-this-instead/)
 <!-- BLOG-POST-LIST:END -->
 
 [📚 Read more on sudoish.com](https://sudoish.com)

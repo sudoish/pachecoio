@@ -19,11 +19,11 @@ Skateboarding keeps me grounded. Fatherhood keeps me humble.
 ## 📝 Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [The Pendulum: How to Use AI Without Losing Your Edge](https://sudoish.com/the-pendulum/)
 - [Don’t Automate the Fun](https://sudoish.com/dont-automate-the-fun/)
 - [AI Didn’t Take Your Job – It Revealed It](https://sudoish.com/the-impossible/)
 - [I Delegated My Thinking to AI. Now I’m Taking It Back.](https://sudoish.com/delegated-my-thinking-to-ai-taking-it-back/)
 - [Anatomy of a Coding Agent: What I Learned Building My Own](https://sudoish.com/anatomy-of-a-coding-agent-what-i-learned-building-my-own/)
-- [How many times have you told the agent the same thing this week](https://sudoish.com/how-many-times-have-you-told-the-agent-the-same-thing-this-week/)
 <!-- BLOG-POST-LIST:END -->
 
 [📚 Read more on sudoish.com](https://sudoish.com)
